@@ -1,2 +1,2 @@
 # budgeting-app
-Budgeting app collaboration with Mikayla
+Budgeting app in collaboration with Mikayla
